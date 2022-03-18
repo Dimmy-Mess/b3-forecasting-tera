@@ -1,0 +1,13 @@
+https://towardsdatascience.com/predicting-stock-price-with-lstm-13af86a74944 <<<  Praticamente o nosso trabalho. Tem outros links muito promissores.
+
+	http://colah.github.io/posts/2015-08-Understanding-LSTMs/ <<<< link de redes neurais recursivas (utilizada no link anterior)
+	https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+	
+
+https://towardsdatascience.com/stock-market-action-prediction-with-convnet-8689238feae3 >> Buy/sell com redes neurais convolucionais
+
+https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-an-arima-model-2e3b3080bd70 >> Prevendo preço com ARIMA (Interessante, pode ser um baseline bom para começar)
+
+https://towardsdatascience.com/lstm-time-series-forecasting-predicting-stock-prices-using-an-lstm-model-6223e9644a2f >>> Outro artigio falando sobre LSTM e predição de preços
+
+
