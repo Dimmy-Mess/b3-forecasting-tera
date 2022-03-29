@@ -11,3 +11,12 @@ https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-u
 https://towardsdatascience.com/lstm-time-series-forecasting-predicting-stock-prices-using-an-lstm-model-6223e9644a2f >>> Outro artigio falando sobre LSTM e predição de preços
 
 
+
+https://www.youtube.com/watch?v=tAO5XlcZz8A <-- Vídeo explicando sobre o CAPM, bem tranquilo e direto
+https://www.suno.com.br/artigos/capm/ <-- Explicação CAPM
+https://investidorsardinha.r7.com/aprender/coeficiente-beta/ <-- Explicação do coeficiente beta
+
+
+
+https://www.mlq.ai/capital-asset-pricing-model-python/ < -- Exemplo de cálculo de CAPM utilizando Python
+https://medium.com/mlearning-ai/the-capital-asset-pricing-model-capm-financial-analysis-in-python-1a7a4f2c7650 < <-- Outro exemplo p CAPM usando Python
