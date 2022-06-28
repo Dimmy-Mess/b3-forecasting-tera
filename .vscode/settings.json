@@ -1,0 +1,5 @@
+{
+  "python.linting.flake8Enabled": true,
+  "python.linting.pydocstyleEnabled": true,
+  "editor.formatOnSave": true
+}
